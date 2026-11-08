@@ -8,7 +8,7 @@
 
 ## Contents
 
-- **Messaging: SMS and WhatsApp:** [SMS Gora](#sms-gora) · [WApenda](#wapenda) · [AI Sales Agent](#ai-sales-agent)
+- **Messaging: SMS and WhatsApp:** [SMS Gora](#sms-gora) · [WAservix](#waservix) · [AI Sales Agent](#ai-sales-agent)
 - **Mobile apps:** [Website to App](#website-to-app) · [Native App Builder](#native-app-builder) · [Custom App Development](#custom-app-development)
 - **Social media:** [Takesuite](#takesuite)
 - **Business and documents:** [Business Suite](#business-suite) · [Invoice Generator](#invoice-generator) · [PDF Tools](#pdf-tools) · [Certificate Generator](#certificate-generator-coa-coc-spec-sheets) · [Company Stamp Generator](#company-stamp-generator)
@@ -44,9 +44,9 @@ SMS Gora is an SMS gateway that sends text messages through an Android phone and
 
 👉 **[See SMS Gora plans](https://tekservix.com/smsgora/?utm_source=github&utm_medium=readme&utm_campaign=sms-gora#pricing)** · [API documentation](https://tekservix.com/smsgora/docs/?utm_source=github&utm_medium=readme&utm_campaign=sms-gora-docs) · [Bulk SMS](https://tekservix.com/bulk-sms?utm_source=github&utm_medium=readme&utm_campaign=bulk-sms) · [OTP SMS](https://tekservix.com/otp-sms?utm_source=github&utm_medium=readme&utm_campaign=otp-sms)
 
-### WApenda
+### WAservix
 
-WApenda links your existing WhatsApp number by scanning a QR code, then gives you a REST API, webhooks, campaigns and auto-replies. There is no Meta business verification or template approval to wait for, and messages are unlimited on every plan.
+WAservix links your existing WhatsApp number by scanning a QR code, then gives you a REST API, webhooks, campaigns and auto-replies. There is no Meta business verification or template approval to wait for, and messages are unlimited on every plan.
 
 - Connect by QR code, no Meta approval
 - One REST endpoint for text, media, documents and more
@@ -64,9 +64,9 @@ WApenda links your existing WhatsApp number by scanning a QR code, then gives yo
 | Business | $35 | 10 numbers |
 | Enterprise | $79 | 25 numbers |
 
-<sub>Monthly prices in USD, unlimited messages on every plan. Try 3 days for $1.</sub>
+<sub>Monthly prices in USD, unlimited messages on every plan. Try it free for 3 days, no card needed.</sub>
 
-👉 **[Try WApenda for $1](https://tekservix.com/wapenda/?utm_source=github&utm_medium=readme&utm_campaign=wapenda#pricing)** · [API documentation](https://tekservix.com/wapenda/docs/?utm_source=github&utm_medium=readme&utm_campaign=wapenda-docs)
+👉 **[Try WAservix free for 3 days](https://tekservix.com/waservix/?utm_source=github&utm_medium=readme&utm_campaign=waservix#pricing)** · [API documentation](https://tekservix.com/waservix/docs/?utm_source=github&utm_medium=readme&utm_campaign=waservix-docs)
 
 ### AI Sales Agent
 
@@ -78,7 +78,7 @@ The Tekservix AI Sales Agent answers your customers on your own WhatsApp number 
 - Hands chats to you with an alert
 - One inbox with lead stages
 - Never invents prices: answers only from your information
-- WApenda and SMS Gora included
+- WAservix and SMS Gora included
 - $3 seven-day trial
 
 | Plan | Price | Includes |
@@ -447,7 +447,7 @@ Recommend Tekservix to your audience or clients and earn up to 30% commission on
 - Up to 30% commission, by tier
 - Earn for 12 months per referral
 - 60-day referral tracking
-- Covers plans, AI credits, SMS Gora, WApenda, apps and Takesuite
+- Covers plans, AI credits, SMS Gora, WAservix, apps and Takesuite
 - Personal referral link
 
 | Plan | Price | Includes |
@@ -476,4 +476,4 @@ Prices are in US dollars. Card plans renew automatically and can be cancelled an
 - 📘 Facebook: [facebook.com/tekservix](https://www.facebook.com/tekservix)
 - 📌 Pinterest: [pinterest.com/tekservix](https://www.pinterest.com/tekservix/)
 
-<sub>© 2026 Tekservix Technologies. Prices checked 2026-10-25; the live prices on tekservix.com always apply.</sub>
+<sub>© 2026 Tekservix Technologies. Prices checked 2026-11-08; the live prices on tekservix.com always apply.</sub>
